@@ -1,0 +1,93 @@
+# AKB48 – Teacher Teacher
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+学校じゃ 気づいていなかった
+街で会って はっとしてしまった
+男性だって 今さら思い出した
+イケてるんじゃない？
+声掛けようか迷って
+溢(こぼ)れそうなカフェラテ
+運命とは奥の手
+話を聞かせて
+誰かに見られて噂されても
+私は平気
+Teacher Teacher
+なぜ 逃げ腰で
+Teacher Teacher
+なぜ 微笑むのかしら？
+Teacher Teacher
+なぜ 私とは
+Teacher Teacher
+なぜ こんな距離を置くの？
+Teacher Teacher
+なぜ 教え子は
+Teacher Teacher
+なぜ 恋愛対象外？
+Teacher Teacher
+なぜ プライベートは
+Teacher Teacher
+なぜ よそよそしい
+いつもと違う 今日の先生
+Why?
+教室じゃ 興味がなかった
+髪型が 地味だと思ってた
+まあいいか パパより年下なら
+上等 セクシー
+どっか行こうって誘って
+指絡めて up to you
+ちょっと危険な用よ
+大人をからかって
+困らせたいだけ面白すぎる
+抱きついてもいい
+Teacher Teacher
+今 さりげなく
+Teacher Teacher
+今 腕をすり抜けて
+Teacher Teacher
+今 駄々っ子を
+Teacher Teacher
+今 まるであやすように…
+Teacher Teacher
+今 気をつけて
+Teacher Teacher
+今 帰りなさいなんて
+Teacher Teacher
+今 学園ドラマね
+Teacher Teacher
+今 真面目すぎる
+夢の世界へついて来なさい
+Come on!
+いつも教えてもらってるけれど
+愛について教えてあげるわ
+さあ もっともっと楽しい時間
+ここからは全てを
+任せてお願いTeacher
+Teacher Teacher
+さあ 常識は
+Teacher Teacher
+さあ 忘れて頂戴
+Teacher Teacher
+さあ 今日だけは
+Teacher Teacher
+さあ 独り占めさせて
+Teacher Teacher
+なぜ 逃げ腰で
+Teacher Teacher
+なぜ 微笑むのかしら？
+Teacher Teacher
+なぜ 私とは
+Teacher Teacher
+なぜ こんな距離を置くの？
+Teacher Teacher
+なぜ 教え子は
+Teacher Teacher
+なぜ 恋愛対象外？
+Teacher Teacher
+なぜ プライベートは
+Teacher Teacher
+なぜ よそよそしい
+いつもと違う 今日の先生
+Why?
+```
