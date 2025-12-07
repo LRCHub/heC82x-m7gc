@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Teacher Teacher",
+  "base_artist": "AKB48",
+  "createdAt": "2025-12-07T11:31:47.749574Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Teacher Teacher (1985 Version - 2020 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/01_Teacher_Teacher_(1985_Version_-_2020_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Teacher Teacher (1985 Version)  (2020 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/02_Teacher_Teacher_(1985_Version)_(2020_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Teacher Teacher (1985 Version)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/03_Teacher_Teacher_(1985_Version)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Teacher, Teacher",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/04_Teacher,_Teacher_Prince.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Teacher, Teacher",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/05_Teacher,_Teacher_Prince.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Teacher, Teacher!",
+      "artist": "Jinjer",
+      "has_synced": true,
+      "path": "select/06_Teacher,_Teacher!_Jinjer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Teacher, Teacher! - Live",
+      "artist": "Jinjer",
+      "has_synced": true,
+      "path": "select/07_Teacher,_Teacher!_-_Live_Jinjer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Teacher, Teacher",
+      "artist": "Slick Rick",
+      "has_synced": true,
+      "path": "select/08_Teacher,_Teacher_Slick_Rick.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "teacher teacher teacher",
+      "artist": "BiS",
+      "has_synced": true,
+      "path": "select/09_teacher_teacher_teacher_BiS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "teacher teacher teacher",
+      "artist": "BiS (Japan)",
+      "has_synced": true,
+      "path": "select/10_teacher_teacher_teacher_BiS_(Japan).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Teacher, Teacher",
+      "artist": "Bryan Adams",
+      "has_synced": false,
+      "path": "select/11_Teacher,_Teacher_Bryan_Adams.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Teacher Teacher",
+      "artist": "The Knack",
+      "has_synced": false,
+      "path": "select/12_Teacher_Teacher_The_Knack.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Teacher, Teacher (bonus track)",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/13_Teacher,_Teacher_(bonus_track)_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Teacher, Teacher! (Live)",
+      "artist": "Jinjer",
+      "has_synced": true,
+      "path": "select/14_Teacher,_Teacher!_(Live)_Jinjer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Teacher, Teacher",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/15_Teacher,_Teacher_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Teacher, Teacher",
+      "artist": "38 Special",
+      "has_synced": true,
+      "path": "select/16_Teacher,_Teacher_38_Special.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Teacher Teacher",
+      "artist": ".38 Special",
+      "has_synced": true,
+      "path": "select/17_Teacher_Teacher_.38_Special.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Teacher Teacher",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/pl_01_Teacher_Teacher_AKB48.txt"
+    }
+  ]
+}
